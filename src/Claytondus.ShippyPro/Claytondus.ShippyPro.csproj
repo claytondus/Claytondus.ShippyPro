@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>A C# wrapper for the ShippyPro API.  I AM NOT AFFILIATED WITH SHIPPYPRO.</Description>
+    <Copyright>2020 Clayton Davis</Copyright>
+    <AssemblyTitle>Claytondus.ShippyPro</AssemblyTitle>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <Authors>Clayton Davis</Authors>
+    <AssemblyName>Claytondus.ShippyPro</AssemblyName>
+    <PackageId>Claytondus.ShippyPro</PackageId>
+    <PackageProjectUrl>https://github.com/claytondus/Claytondus.ShippyPro</PackageProjectUrl>
+    <PackageLicenseUrl>http://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flurl.Http" Version="2.4.2" />
+  </ItemGroup>
+
+</Project>

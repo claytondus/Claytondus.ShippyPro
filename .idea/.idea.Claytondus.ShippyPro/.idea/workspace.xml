@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03a9f110-e953-4ea6-8120-4c2cdfcd9a74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/.idea.Claytondus.ShippyPro.dir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro.dir/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Claytondus.ShippyPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Claytondus.ShippyPro.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/GetRates.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Item.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Parcel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/PutOrder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Rate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Response.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Ship.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/ShippyProException.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/RestClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/ShippyProClient.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Claytondus.ShippyPro.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Claytondus.ShippyPro.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Claytondus.ShippyPro.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Debug/netstandard2.0/Claytondus.ShippyPro.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Debug/netstandard2.0/Claytondus.ShippyPro.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Debug/netstandard2.0/Claytondus.ShippyPro.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/Debug/netstandard2.0/Claytondus.ShippyPro.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Claytondus.ShippyPro/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/Claytondus.ShippyPro.Test.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/obj/Debug/Claytondus.ShippyPro.Test.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Rate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Ship.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/ShippyProClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/GetRates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/RestClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/ShippyProException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/obj/Debug/netcoreapp3.1/Claytondus.ShippyPro.Test.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/Claytondus.ShippyPro.Test.csproj" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/GetRatesResponse.cs" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Rate.cs" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/ShippyProClient.cs" />
+        <option value="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/RestClient.cs" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/Models/Ship.cs" />
+        <option value="$PROJECT_DIR$/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fcCoNn0F8fBNp4OC6vsHvZoFMi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34971997" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29993778" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03a9f110-e953-4ea6-8120-4c2cdfcd9a74" name="Default Changelist" comment="" />
+      <created>1596508167595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596508167595</updated>
+      <workItem from="1596508178497" duration="4568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="391" key="GridCell.Tab.0.bottom" timestamp="1596577411864">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411864" />
+    <state width="1638" height="391" key="GridCell.Tab.0.center" timestamp="1596577411863">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411863" />
+    <state width="1638" height="391" key="GridCell.Tab.0.left" timestamp="1596577411862">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411862" />
+    <state width="1638" height="391" key="GridCell.Tab.0.right" timestamp="1596577411863">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411863" />
+    <state width="1638" height="391" key="GridCell.Tab.1.bottom" timestamp="1596577411866">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411866" />
+    <state width="1638" height="391" key="GridCell.Tab.1.center" timestamp="1596577411865">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411865" />
+    <state width="1638" height="391" key="GridCell.Tab.1.left" timestamp="1596577411864">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411864" />
+    <state width="1638" height="391" key="GridCell.Tab.1.right" timestamp="1596577411865">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411865" />
+    <state width="1638" height="391" key="GridCell.Tab.2.bottom" timestamp="1596577411867">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411867" />
+    <state width="1638" height="391" key="GridCell.Tab.2.center" timestamp="1596577411866">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411866" />
+    <state width="1638" height="391" key="GridCell.Tab.2.left" timestamp="1596577411866">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411866" />
+    <state width="1638" height="391" key="GridCell.Tab.2.right" timestamp="1596577411867">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411867" />
+    <state width="1638" height="391" key="GridCell.Tab.3.bottom" timestamp="1596577411869">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411869" />
+    <state width="1638" height="391" key="GridCell.Tab.3.center" timestamp="1596577411868">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411868" />
+    <state width="1638" height="391" key="GridCell.Tab.3.left" timestamp="1596577411868">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411868" />
+    <state width="1638" height="391" key="GridCell.Tab.3.right" timestamp="1596577411869">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411869" />
+    <state width="1638" height="391" key="GridCell.Tab.4.bottom" timestamp="1596577411871">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411871" />
+    <state width="1638" height="391" key="GridCell.Tab.4.center" timestamp="1596577411871">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411871" />
+    <state width="1638" height="391" key="GridCell.Tab.4.left" timestamp="1596577411870">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411870" />
+    <state width="1638" height="391" key="GridCell.Tab.4.right" timestamp="1596577411871">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="391" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596577411871" />
+    <state width="840" height="537" key="XDebugger.FullValuePopup" timestamp="1596577409983">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="840" height="537" key="XDebugger.FullValuePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1596577409983" />
+    <state width="840" height="537" key="XDebugger.FullValuePopup/0.23.1680.1027@0.23.1680.1027" timestamp="1596577357890" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs</url>
+          <line>118</line>
+          <properties documentPath="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs" initialLine="118">
+            <startOffsets>
+              <option value="3744" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3769" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs</url>
+          <line>175</line>
+          <properties documentPath="$PROJECT_DIR$/test/Claytondus.ShippyPro.Test/ClientTest.cs" initialLine="171">
+            <startOffsets>
+              <option value="5635" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5677" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

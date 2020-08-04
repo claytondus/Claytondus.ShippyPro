@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cd/src/Claytondus.ShippyPro/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj": {}
+  },
+  "projects": {
+    "/Users/cd/src/Claytondus.ShippyPro/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "/Users/cd/src/Claytondus.ShippyPro/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj",
+        "projectName": "Claytondus.ShippyPro",
+        "projectPath": "/Users/cd/src/Claytondus.ShippyPro/src/Claytondus.ShippyPro/Claytondus.ShippyPro.csproj",
+        "packagesPath": "/Users/cd/.nuget/packages/",
+        "outputPath": "/Users/cd/src/Claytondus.ShippyPro/src/Claytondus.ShippyPro/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/cd/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
