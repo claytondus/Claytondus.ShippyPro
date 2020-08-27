@@ -36,6 +36,7 @@ namespace Claytondus.ShippyPro.Models
         public string Note { get; set; }
         public string CarrierNote { get; set; }
         public bool Async { get; set; }
+        public IEnumerable<CustomsDetail> CN22Info { get; set; }
 
     }
 
