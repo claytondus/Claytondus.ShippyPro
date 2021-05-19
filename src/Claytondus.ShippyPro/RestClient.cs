@@ -1,41 +1,34 @@
-﻿﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Claytondus.ShippyPro.Models;
 using Flurl;
 using Flurl.Http;
-using Newtonsoft.Json;
+using Microsoft.Extensions.Logging;
 
 namespace Claytondus.ShippyPro
 {
 	public class RestClient
 	{
-		protected readonly string ShippyProUrl = "https://www.shippypro.com/api";
+		protected readonly Url ShippyProUrl = "https://www.shippypro.com/api";
 		private readonly string _authToken;
+		private readonly ILogger? _logger;
 
-		public RestClient()
-		{
-		}
 
-		public RestClient(string authToken)
+		public RestClient(string authToken, ILogger? logger = null)
 		{
 			_authToken = authToken;
+			_logger = logger;
 		}
-
 
 		protected async Task<T> PostAsync<T>(object body)
 		{
 			try
 			{
-				var request = new Url(ShippyProUrl)
+				var request = ShippyProUrl
 					.WithDefaults()
 					.WithBasicAuth(_authToken, "");
-				return await request.PostJsonAsync(body)
-					.ReceiveJson<T>();
+				var response = await request.PostJsonAsync(body);
+				_logger?.LogTrace(response.ResponseMessage.RequestMessage.ToString());
+				return await response.GetJsonAsync<T>();
 			}
 			catch (FlurlHttpTimeoutException)
 			{
@@ -46,7 +39,9 @@ namespace Claytondus.ShippyPro
 				var response = await ex.GetResponseStringAsync();
 				var ShippyProEx = new ShippyProException("error", response)
 				{
-					Method = "POST", HttpStatus = ex.Call.HttpStatus, HttpMessage = ex.Message,
+					Method = "POST",
+					HttpStatus = ex.Call.HttpResponseMessage.StatusCode,
+					HttpMessage = ex.Message,
 					RequestBody = ex.Call.RequestBody
 				};
 				throw ShippyProEx;

@@ -1,15 +1,12 @@
-﻿﻿using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Claytondus.ShippyPro.Models;
+using Microsoft.Extensions.Logging;
 
 namespace Claytondus.ShippyPro
 {
-
 	public class ShippyProClient : RestClient
 	{
-
-		public ShippyProClient(string authToken) : base(authToken)
+		public ShippyProClient(string authToken, ILogger? logger = null) : base(authToken, logger)
 		{
 		}
 
