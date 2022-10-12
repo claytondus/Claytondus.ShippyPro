@@ -56,7 +56,7 @@ namespace Claytondus.ShippyPro.Models
 
     public class AdditionalTrackingNumber
     {
-        public string TrackingNumber { get; set; }
-        public string TrackingExternalLink { get; set; }
+        public string? TrackingNumber { get; set; }
+        public string? TrackingExternalLink { get; set; }
     }
 }
