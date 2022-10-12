@@ -3,9 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>A C# wrapper for the ShippyPro API.  I AM NOT AFFILIATED WITH SHIPPYPRO.</Description>
-    <Copyright>2021 Clayton Davis</Copyright>
+    <Copyright>2022 Clayton Davis</Copyright>
     <AssemblyTitle>Claytondus.ShippyPro</AssemblyTitle>
-    <VersionPrefix>1.0.0</VersionPrefix>
+    <VersionPrefix>1.1.0</VersionPrefix>
     <Authors>Clayton Davis</Authors>
     <AssemblyName>Claytondus.ShippyPro</AssemblyName>
     <PackageId>Claytondus.ShippyPro</PackageId>
